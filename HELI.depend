@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1709822027 source:c:\demogame\main.cpp
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1709611432 source:c:\demogame\main_image.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1709783563 source:c:\demogame\commonfunc.cpp
+	"CommonFunc.h"
+
+1709822181 c:\demogame\commonfunc.h
+	<Windows.h>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1709783522 source:c:\demogame\baseobject.cpp
+	"BaseObject.h"
+
+1709819535 c:\demogame\baseobject.h
+	"CommonFunc.h"
+
+1715479021 source:c:\projectgame\baseobject.cpp
+	"BaseObject.h"
+
+1714442812 c:\projectgame\baseobject.h
+	"CommonFunc.h"
+
+1715480452 c:\projectgame\commonfunc.h
+	<iostream>
+	<Windows.h>
+	<math.h>
+	<string>
+	<fstream>
+	<algorithm>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1715478989 source:c:\projectgame\commonfunc.cpp
+	"CommonFunc.h"
+
+1715479168 source:c:\projectgame\main.cpp
+	"CommonFunc.h"
+	"BaseObject.h"
+	"Player.h"
+	"ImpTimer.h"
+	"ThreatsObject.h"
+	"TextObject.h"
+
+1714384042 c:\projectgame\player.h
+	"CommonFunc.h"
+	"BaseObject.h"
+	"BulletObject.h"
+	<vector>
+
+1714537268 source:c:\projectgame\player.cpp
+	"Player.h"
+
+1715478989 source:c:\projectgame\imptimer.cpp
+	"ImpTimer.h"
+	"CommonFunc.h"
+
+1715478989 c:\projectgame\imptimer.h
+
+1710729070 c:\projectgame\bulletobject.h
+	"BaseObject.h"
+
+1713174256 source:c:\projectgame\bulletobject.cpp
+	"BulletObject.h"
+
+1715478989 c:\projectgame\threatsobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+	"BulletObject.h"
+	<vector>
+
+1714442959 source:c:\projectgame\threatsobject.cpp
+	"ThreatsObject.h"
+
+1715478989 source:c:\projectgame\textobject.cpp
+	"TextObject.h"
+
+1715479011 c:\projectgame\textobject.h
+	"CommonFunc.h"
+
