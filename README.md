@@ -27,7 +27,7 @@ Người chơi có thể quay lại màn hình menu tại bất kì thởi đi�
 cách ấn `esc`
 
 ## Video demo
-<video controls src="Demo-1.mp4" title="Title"></video>"
+@import "<video controls src="Demo-1.mp4" title="Title"></video>"
 
 
 
