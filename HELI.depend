@@ -60,7 +60,7 @@
 	"BulletObject.h"
 	<vector>
 
-1714537268 source:c:\projectgame\player.cpp
+1715488123 source:c:\projectgame\player.cpp
 	"Player.h"
 
 1715478989 source:c:\projectgame\imptimer.cpp
@@ -89,4 +89,69 @@
 
 1715479011 c:\projectgame\textobject.h
 	"CommonFunc.h"
+
+1715479021 source:c:\projectgame\scr\baseobject.cpp
+	"BaseObject.h"
+
+1714442812 c:\projectgame\scr\baseobject.h
+	"CommonFunc.h"
+
+1715480452 c:\projectgame\scr\commonfunc.h
+	<iostream>
+	<Windows.h>
+	<math.h>
+	<string>
+	<fstream>
+	<algorithm>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1713174256 source:c:\projectgame\scr\bulletobject.cpp
+	"BulletObject.h"
+
+1710729070 c:\projectgame\scr\bulletobject.h
+	"BaseObject.h"
+
+1715478989 source:c:\projectgame\scr\commonfunc.cpp
+	"CommonFunc.h"
+
+1715478989 source:c:\projectgame\scr\imptimer.cpp
+	"ImpTimer.h"
+	"CommonFunc.h"
+
+1715478989 c:\projectgame\scr\imptimer.h
+
+1715479168 source:c:\projectgame\scr\main.cpp
+	"CommonFunc.h"
+	"BaseObject.h"
+	"Player.h"
+	"ImpTimer.h"
+	"ThreatsObject.h"
+	"TextObject.h"
+
+1714384042 c:\projectgame\scr\player.h
+	"CommonFunc.h"
+	"BaseObject.h"
+	"BulletObject.h"
+	<vector>
+
+1715478989 c:\projectgame\scr\threatsobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+	"BulletObject.h"
+	<vector>
+
+1715479011 c:\projectgame\scr\textobject.h
+	"CommonFunc.h"
+
+1715488123 source:c:\projectgame\scr\player.cpp
+	"Player.h"
+
+1715478989 source:c:\projectgame\scr\textobject.cpp
+	"TextObject.h"
+
+1714442959 source:c:\projectgame\scr\threatsobject.cpp
+	"ThreatsObject.h"
 

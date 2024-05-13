@@ -113,7 +113,7 @@ void Player::DoPlayer()
 void Player::CheckToMap()
 {
    x_pos_ += x_val_/60;
-   y_pos_ += y_val_/60;  // sao day phai chia 60?
+   y_pos_ += y_val_/60;
    if( x_pos_ < 0 || x_pos_  + 46> SCREEN_WIDTH ){
     x_pos_ -= x_val_/60;
    }
