@@ -26,8 +26,8 @@ Trò chơi kết thúc khi Tàu vũ trụ bị thiên thạch bắn trúng 3 l�
 Người chơi có thể quay lại màn hình menu tại bất kì thởi điểm nào bằng
 cách ấn `esc`
 
-## Video demo
-@import "<video controls src="Demo-1.mp4" title="Title"></video>"
+[Video_demo](https://youtu.be/p8h04nEqc0w)
+
 
 
 
