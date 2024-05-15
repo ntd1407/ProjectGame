@@ -5,6 +5,7 @@ B1: Tải project về
  Trên Github, chọn Code => Download ZIP
 
 B2: Chạy game
+
  Tìm file HELI.cbp và chạy file
 
 
