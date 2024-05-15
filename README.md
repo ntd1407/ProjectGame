@@ -25,8 +25,11 @@ Trò chơi kết thúc khi Tàu vũ trụ bị thiên thạch bắn trúng 3 l�
 
 Người chơi có thể quay lại màn hình menu tại bất kì thởi điểm nào bằng
 cách ấn `esc`
+## Tài liệu tham khảo
+- SDL2: [SDL Wiki](https://wiki.libsdl.org/SDL2/Tutorials), [UET courses](https://courses.uet.vnu.edu.vn/pluginfile.php/384113/mod_resource/content/1/Lec07-08-SDL.pdf)
 ## Demo
 [Video_demo](https://youtu.be/p8h04nEqc0w)
+
 
 
 
