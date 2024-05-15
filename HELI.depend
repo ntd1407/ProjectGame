@@ -31,7 +31,7 @@
 1714442812 c:\projectgame\baseobject.h
 	"CommonFunc.h"
 
-1715480452 c:\projectgame\commonfunc.h
+1715746624 c:\projectgame\commonfunc.h
 	<iostream>
 	<Windows.h>
 	<math.h>
@@ -46,7 +46,7 @@
 1715478989 source:c:\projectgame\commonfunc.cpp
 	"CommonFunc.h"
 
-1715479168 source:c:\projectgame\main.cpp
+1715741214 source:c:\projectgame\main.cpp
 	"CommonFunc.h"
 	"BaseObject.h"
 	"Player.h"

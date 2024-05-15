@@ -233,7 +233,6 @@ std::cout << "menu: " << menu_menu  << std::endl;
             time_menu = SDL_GetTicks()/1000;
         }
     if(menu_menu == 0){
-        std:: cout << "Time_menu: " << time_menu<< std::endl;
 
         Mix_OpenAudio(44100,MIX_DEFAULT_FORMAT,2,1048);
 		Mix_Music*backgroundSound = Mix_LoadMUS("audio//Action.mid");

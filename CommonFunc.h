@@ -28,7 +28,7 @@ const int COLOR_KEY_R = 167;
 const int COLOR_KEY_G = 175;
 const int COLOR_KEY_B = 180;
 const int NUM_THREAT = 5;
-const int FRAMES_PER_SECOND = 20;
+const int FRAMES_PER_SECOND = 25;
 const int SCREEN_WIDTH = 1500;
 const int SCREEN_HEIGHT = 1000;
 
